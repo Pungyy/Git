@@ -1,1 +1,2 @@
-Ceci est du texte
+Ceci est du texte modifié !
+Nouvelle ligne dans le fichier texte
